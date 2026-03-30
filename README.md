@@ -43,9 +43,3 @@
 <h3 align="left">🛠 Tools</h3>
 
 ###
-
-<div align = "center" height=''>
-  <img src="https://skillicons.dev/icons?i=john,maltego,)" alt="languages" />
-</div>
-
-###
