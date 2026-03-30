@@ -35,7 +35,7 @@
 ###
 
 <div align = "center" height=''>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python)" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,)" alt="languages" />
 </div>
 
 
