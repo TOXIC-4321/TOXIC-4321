@@ -45,7 +45,7 @@
 ###
 
 <div align = "center" height=''>
-  <img src="https://skillicons.dev/icons?i=johntheripper,)" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=John,)" alt="languages" />
 </div>
 
 ###
