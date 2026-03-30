@@ -40,3 +40,8 @@
 
 ###
 
+🛠️ _Tools:_
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=johntheripper,maltego)" alt="tools" />
+</div>
