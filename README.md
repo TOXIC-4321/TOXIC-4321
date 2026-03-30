@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language</h3>
 
 ###
 
@@ -38,5 +38,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,c,python,)" alt="languages" />
 </div>
 
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align = "center" height=''>
+  <img src="https://skillicons.dev/icons?i=john the ripper,)" alt="languages" />
+</div>
 
 ###
