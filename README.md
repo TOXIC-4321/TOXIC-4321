@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Suryajyoti Banerjee...<br><br>-  🎓 I'm a student passionate about Cyber Security and Data Analytics<br>- 🌱 Currently learning Python, JavaScript<br>- 💡 I enjoy to learn new thing</p>
+<p align="left">I'm Suryajyoti Banerjee...<br><br>-  🎓 I'm a student passionate about Data Science and Data Analytics<br>- 🌱 Currently learning Python, JavaScript<br>- 💡 I enjoy to learn new thing</p>
 
 ###
 
